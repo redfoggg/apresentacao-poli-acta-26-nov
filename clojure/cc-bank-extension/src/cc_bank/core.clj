@@ -44,5 +44,9 @@
          (new-state
           mock-state
           [{:value 10M :category 0}]
+          (:customer-id mock-state))
+         (new-state
+          mock-state
+          [{:value -10M :category 2}]
           (:customer-id mock-state)))
 
