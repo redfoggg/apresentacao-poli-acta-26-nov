@@ -5,52 +5,9 @@
 
 ;; def e defn
 
+;; Let bindings
+
 ;; Collections
 
-;; Matemática básica
-
 ;; Threading
-
-;; 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
