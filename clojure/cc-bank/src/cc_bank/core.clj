@@ -20,7 +20,6 @@
         new-state             (assoc feed :transactions (concat feed-old-transactions new-transactions))]
     new-state))
 
-
 (defn program-loop!
   [state]
   (let [input (read-line)]
@@ -46,3 +45,4 @@
           [{:value 10M :category 0}]
           (:customer-id mock-state)))
 
+;  [{ "value": 30.0000000000, "category": 0 }, {"value": 32.22, "category": 1}]

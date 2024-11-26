@@ -32,3 +32,6 @@ while (true)
 
     Console.WriteLine(JsonSerializer.Serialize(response, jsonOptions));
 }
+
+// [{ "value": 30.0000000000, "category": 0 }, {"value": 32.22, "category": 1}]
+// [{ "value": -30.0000000000, "category": 0 }]

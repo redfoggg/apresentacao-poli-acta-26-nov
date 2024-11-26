@@ -50,3 +50,6 @@
           [{:value -10M :category 2}]
           (:customer-id mock-state)))
 
+; [{ "value": 30.0000000000, "category": 0 }, {"value": 32.22, "category": 1}]
+; [{ "value": -30.0000000000, "category": 0 }]
+
